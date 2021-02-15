@@ -1,0 +1,33 @@
+h1,p,li {
+  color:orange;
+}
+
+* img{
+  border: 2px solid white;
+  border-radius: 50px;
+}
+
+.grid{
+  display:flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  background-color: black;
+ width:windowWidth;
+
+  font-family:sans-srief;
+}
+
+.header{
+  display: flex;
+  width:windowWidth;
+  justify-content: space-between;
+  background-color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: black;
+}
+
+*{
+  text-align: center;
+}
